@@ -1,0 +1,20 @@
+{
+  "name": "eliminate",
+  "version": "1.0.0",
+  "description": "消消乐小游戏 - 基于Phaser引擎",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server . -p 5100 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/smallzip/eliminate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  }
+}
